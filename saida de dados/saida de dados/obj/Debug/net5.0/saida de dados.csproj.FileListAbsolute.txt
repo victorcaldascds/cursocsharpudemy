@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\saida de dados\saida de dados\bin\Debug\net5.0\saida de dados.exe
+F:\Estudos\C#\C# Completo\Projetos\saida de dados\saida de dados\bin\Debug\net5.0\saida de dados.deps.json
+F:\Estudos\C#\C# Completo\Projetos\saida de dados\saida de dados\bin\Debug\net5.0\saida de dados.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\saida de dados\saida de dados\bin\Debug\net5.0\saida de dados.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\saida de dados\saida de dados\bin\Debug\net5.0\saida de dados.dll
+F:\Estudos\C#\C# Completo\Projetos\saida de dados\saida de dados\bin\Debug\net5.0\saida de dados.pdb
+F:\Estudos\C#\C# Completo\Projetos\saida de dados\saida de dados\obj\Debug\net5.0\saida de dados.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\saida de dados\saida de dados\obj\Debug\net5.0\saida de dados.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\saida de dados\saida de dados\obj\Debug\net5.0\saida de dados.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\saida de dados\saida de dados\obj\Debug\net5.0\saida de dados.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\saida de dados\saida de dados\obj\Debug\net5.0\saida de dados.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\saida de dados\saida de dados\obj\Debug\net5.0\saida de dados.dll
+F:\Estudos\C#\C# Completo\Projetos\saida de dados\saida de dados\obj\Debug\net5.0\refint\saida de dados.dll
+F:\Estudos\C#\C# Completo\Projetos\saida de dados\saida de dados\obj\Debug\net5.0\saida de dados.pdb
+F:\Estudos\C#\C# Completo\Projetos\saida de dados\saida de dados\obj\Debug\net5.0\saida de dados.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\saida de dados\saida de dados\obj\Debug\net5.0\ref\saida de dados.dll

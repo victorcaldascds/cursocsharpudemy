@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\Vetores - exemplo 1\Vetores - exemplo 1\bin\Debug\net5.0\Vetores - exemplo 1.exe
+F:\Estudos\C#\C# Completo\Projetos\Vetores - exemplo 1\Vetores - exemplo 1\bin\Debug\net5.0\Vetores - exemplo 1.deps.json
+F:\Estudos\C#\C# Completo\Projetos\Vetores - exemplo 1\Vetores - exemplo 1\bin\Debug\net5.0\Vetores - exemplo 1.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\Vetores - exemplo 1\Vetores - exemplo 1\bin\Debug\net5.0\Vetores - exemplo 1.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\Vetores - exemplo 1\Vetores - exemplo 1\bin\Debug\net5.0\Vetores - exemplo 1.dll
+F:\Estudos\C#\C# Completo\Projetos\Vetores - exemplo 1\Vetores - exemplo 1\bin\Debug\net5.0\Vetores - exemplo 1.pdb
+F:\Estudos\C#\C# Completo\Projetos\Vetores - exemplo 1\Vetores - exemplo 1\obj\Debug\net5.0\Vetores - exemplo 1.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\Vetores - exemplo 1\Vetores - exemplo 1\obj\Debug\net5.0\Vetores - exemplo 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\Vetores - exemplo 1\Vetores - exemplo 1\obj\Debug\net5.0\Vetores - exemplo 1.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Vetores - exemplo 1\Vetores - exemplo 1\obj\Debug\net5.0\Vetores - exemplo 1.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\Vetores - exemplo 1\Vetores - exemplo 1\obj\Debug\net5.0\Vetores - exemplo 1.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Vetores - exemplo 1\Vetores - exemplo 1\obj\Debug\net5.0\Vetores - exemplo 1.dll
+F:\Estudos\C#\C# Completo\Projetos\Vetores - exemplo 1\Vetores - exemplo 1\obj\Debug\net5.0\refint\Vetores - exemplo 1.dll
+F:\Estudos\C#\C# Completo\Projetos\Vetores - exemplo 1\Vetores - exemplo 1\obj\Debug\net5.0\Vetores - exemplo 1.pdb
+F:\Estudos\C#\C# Completo\Projetos\Vetores - exemplo 1\Vetores - exemplo 1\obj\Debug\net5.0\Vetores - exemplo 1.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\Vetores - exemplo 1\Vetores - exemplo 1\obj\Debug\net5.0\ref\Vetores - exemplo 1.dll

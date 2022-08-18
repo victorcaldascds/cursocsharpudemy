@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\Produto em estoque\Produto em estoque\bin\Debug\net5.0\Produto em estoque.exe
+F:\Estudos\C#\C# Completo\Projetos\Produto em estoque\Produto em estoque\bin\Debug\net5.0\Produto em estoque.deps.json
+F:\Estudos\C#\C# Completo\Projetos\Produto em estoque\Produto em estoque\bin\Debug\net5.0\Produto em estoque.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\Produto em estoque\Produto em estoque\bin\Debug\net5.0\Produto em estoque.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\Produto em estoque\Produto em estoque\bin\Debug\net5.0\Produto em estoque.dll
+F:\Estudos\C#\C# Completo\Projetos\Produto em estoque\Produto em estoque\bin\Debug\net5.0\Produto em estoque.pdb
+F:\Estudos\C#\C# Completo\Projetos\Produto em estoque\Produto em estoque\obj\Debug\net5.0\Produto em estoque.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\Produto em estoque\Produto em estoque\obj\Debug\net5.0\Produto em estoque.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\Produto em estoque\Produto em estoque\obj\Debug\net5.0\Produto em estoque.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Produto em estoque\Produto em estoque\obj\Debug\net5.0\Produto em estoque.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\Produto em estoque\Produto em estoque\obj\Debug\net5.0\Produto em estoque.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Produto em estoque\Produto em estoque\obj\Debug\net5.0\Produto em estoque.dll
+F:\Estudos\C#\C# Completo\Projetos\Produto em estoque\Produto em estoque\obj\Debug\net5.0\refint\Produto em estoque.dll
+F:\Estudos\C#\C# Completo\Projetos\Produto em estoque\Produto em estoque\obj\Debug\net5.0\Produto em estoque.pdb
+F:\Estudos\C#\C# Completo\Projetos\Produto em estoque\Produto em estoque\obj\Debug\net5.0\Produto em estoque.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\Produto em estoque\Produto em estoque\obj\Debug\net5.0\ref\Produto em estoque.dll

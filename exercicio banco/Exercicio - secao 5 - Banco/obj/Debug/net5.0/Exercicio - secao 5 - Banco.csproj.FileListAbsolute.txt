@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\exercicio banco\Exercicio - secao 5 - Banco\obj\Debug\net5.0\Exercicio - secao 5 - Banco.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\exercicio banco\Exercicio - secao 5 - Banco\obj\Debug\net5.0\Exercicio - secao 5 - Banco.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\exercicio banco\Exercicio - secao 5 - Banco\obj\Debug\net5.0\Exercicio - secao 5 - Banco.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\exercicio banco\Exercicio - secao 5 - Banco\obj\Debug\net5.0\Exercicio - secao 5 - Banco.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\exercicio banco\Exercicio - secao 5 - Banco\obj\Debug\net5.0\Exercicio - secao 5 - Banco.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\exercicio banco\Exercicio - secao 5 - Banco\bin\Debug\net5.0\Exercicio - secao 5 - Banco.exe
+F:\Estudos\C#\C# Completo\Projetos\exercicio banco\Exercicio - secao 5 - Banco\bin\Debug\net5.0\Exercicio - secao 5 - Banco.deps.json
+F:\Estudos\C#\C# Completo\Projetos\exercicio banco\Exercicio - secao 5 - Banco\bin\Debug\net5.0\Exercicio - secao 5 - Banco.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\exercicio banco\Exercicio - secao 5 - Banco\bin\Debug\net5.0\Exercicio - secao 5 - Banco.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\exercicio banco\Exercicio - secao 5 - Banco\bin\Debug\net5.0\Exercicio - secao 5 - Banco.dll
+F:\Estudos\C#\C# Completo\Projetos\exercicio banco\Exercicio - secao 5 - Banco\bin\Debug\net5.0\Exercicio - secao 5 - Banco.pdb
+F:\Estudos\C#\C# Completo\Projetos\exercicio banco\Exercicio - secao 5 - Banco\obj\Debug\net5.0\Exercicio - secao 5 - Banco.dll
+F:\Estudos\C#\C# Completo\Projetos\exercicio banco\Exercicio - secao 5 - Banco\obj\Debug\net5.0\refint\Exercicio - secao 5 - Banco.dll
+F:\Estudos\C#\C# Completo\Projetos\exercicio banco\Exercicio - secao 5 - Banco\obj\Debug\net5.0\Exercicio - secao 5 - Banco.pdb
+F:\Estudos\C#\C# Completo\Projetos\exercicio banco\Exercicio - secao 5 - Banco\obj\Debug\net5.0\Exercicio - secao 5 - Banco.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\exercicio banco\Exercicio - secao 5 - Banco\obj\Debug\net5.0\ref\Exercicio - secao 5 - Banco.dll

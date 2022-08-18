@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\Secao7 - Datetime\Secao7 - Datetime\bin\Debug\net5.0\Secao7 - Datetime.exe
+F:\Estudos\C#\C# Completo\Projetos\Secao7 - Datetime\Secao7 - Datetime\bin\Debug\net5.0\Secao7 - Datetime.deps.json
+F:\Estudos\C#\C# Completo\Projetos\Secao7 - Datetime\Secao7 - Datetime\bin\Debug\net5.0\Secao7 - Datetime.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\Secao7 - Datetime\Secao7 - Datetime\bin\Debug\net5.0\Secao7 - Datetime.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\Secao7 - Datetime\Secao7 - Datetime\bin\Debug\net5.0\Secao7 - Datetime.dll
+F:\Estudos\C#\C# Completo\Projetos\Secao7 - Datetime\Secao7 - Datetime\bin\Debug\net5.0\Secao7 - Datetime.pdb
+F:\Estudos\C#\C# Completo\Projetos\Secao7 - Datetime\Secao7 - Datetime\obj\Debug\net5.0\Secao7 - Datetime.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\Secao7 - Datetime\Secao7 - Datetime\obj\Debug\net5.0\Secao7 - Datetime.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\Secao7 - Datetime\Secao7 - Datetime\obj\Debug\net5.0\Secao7 - Datetime.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Secao7 - Datetime\Secao7 - Datetime\obj\Debug\net5.0\Secao7 - Datetime.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\Secao7 - Datetime\Secao7 - Datetime\obj\Debug\net5.0\Secao7 - Datetime.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Secao7 - Datetime\Secao7 - Datetime\obj\Debug\net5.0\Secao7 - Datetime.dll
+F:\Estudos\C#\C# Completo\Projetos\Secao7 - Datetime\Secao7 - Datetime\obj\Debug\net5.0\refint\Secao7 - Datetime.dll
+F:\Estudos\C#\C# Completo\Projetos\Secao7 - Datetime\Secao7 - Datetime\obj\Debug\net5.0\Secao7 - Datetime.pdb
+F:\Estudos\C#\C# Completo\Projetos\Secao7 - Datetime\Secao7 - Datetime\obj\Debug\net5.0\Secao7 - Datetime.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\Secao7 - Datetime\Secao7 - Datetime\obj\Debug\net5.0\ref\Secao7 - Datetime.dll

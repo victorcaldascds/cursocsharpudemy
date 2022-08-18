@@ -1,0 +1,15 @@
+F:\Estudos\C#\C# Completo\ws-vs2019\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.exe
+F:\Estudos\C#\C# Completo\ws-vs2019\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.deps.json
+F:\Estudos\C#\C# Completo\ws-vs2019\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.runtimeconfig.json
+F:\Estudos\C#\C# Completo\ws-vs2019\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.dll
+F:\Estudos\C#\C# Completo\ws-vs2019\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.pdb
+F:\Estudos\C#\C# Completo\ws-vs2019\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\ws-vs2019\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\ws-vs2019\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\ws-vs2019\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\ws-vs2019\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\ws-vs2019\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.dll
+F:\Estudos\C#\C# Completo\ws-vs2019\Primeiro\Primeiro\obj\Debug\net6.0\refint\Primeiro.dll
+F:\Estudos\C#\C# Completo\ws-vs2019\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.pdb
+F:\Estudos\C#\C# Completo\ws-vs2019\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\ws-vs2019\Primeiro\Primeiro\obj\Debug\net6.0\ref\Primeiro.dll

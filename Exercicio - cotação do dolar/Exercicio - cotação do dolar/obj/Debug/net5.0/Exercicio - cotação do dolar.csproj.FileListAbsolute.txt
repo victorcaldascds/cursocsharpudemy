@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\Exercicio - cotação do dolar\Exercicio - cotação do dolar\obj\Debug\net5.0\Exercicio - cotação do dolar.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\Exercicio - cotação do dolar\Exercicio - cotação do dolar\obj\Debug\net5.0\Exercicio - cotação do dolar.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\Exercicio - cotação do dolar\Exercicio - cotação do dolar\obj\Debug\net5.0\Exercicio - cotação do dolar.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Exercicio - cotação do dolar\Exercicio - cotação do dolar\obj\Debug\net5.0\Exercicio - cotação do dolar.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\Exercicio - cotação do dolar\Exercicio - cotação do dolar\obj\Debug\net5.0\Exercicio - cotação do dolar.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Exercicio - cotação do dolar\Exercicio - cotação do dolar\bin\Debug\net5.0\Exercicio - cotação do dolar.exe
+F:\Estudos\C#\C# Completo\Projetos\Exercicio - cotação do dolar\Exercicio - cotação do dolar\bin\Debug\net5.0\Exercicio - cotação do dolar.deps.json
+F:\Estudos\C#\C# Completo\Projetos\Exercicio - cotação do dolar\Exercicio - cotação do dolar\bin\Debug\net5.0\Exercicio - cotação do dolar.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\Exercicio - cotação do dolar\Exercicio - cotação do dolar\bin\Debug\net5.0\Exercicio - cotação do dolar.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\Exercicio - cotação do dolar\Exercicio - cotação do dolar\bin\Debug\net5.0\Exercicio - cotação do dolar.dll
+F:\Estudos\C#\C# Completo\Projetos\Exercicio - cotação do dolar\Exercicio - cotação do dolar\bin\Debug\net5.0\Exercicio - cotação do dolar.pdb
+F:\Estudos\C#\C# Completo\Projetos\Exercicio - cotação do dolar\Exercicio - cotação do dolar\obj\Debug\net5.0\Exercicio - cotação do dolar.dll
+F:\Estudos\C#\C# Completo\Projetos\Exercicio - cotação do dolar\Exercicio - cotação do dolar\obj\Debug\net5.0\refint\Exercicio - cotação do dolar.dll
+F:\Estudos\C#\C# Completo\Projetos\Exercicio - cotação do dolar\Exercicio - cotação do dolar\obj\Debug\net5.0\Exercicio - cotação do dolar.pdb
+F:\Estudos\C#\C# Completo\Projetos\Exercicio - cotação do dolar\Exercicio - cotação do dolar\obj\Debug\net5.0\Exercicio - cotação do dolar.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\Exercicio - cotação do dolar\Exercicio - cotação do dolar\obj\Debug\net5.0\ref\Exercicio - cotação do dolar.dll

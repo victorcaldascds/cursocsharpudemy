@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\datetimekind e iso8601\datetimekind e iso8601\bin\Debug\net5.0\datetimekind e iso8601.exe
+F:\Estudos\C#\C# Completo\Projetos\datetimekind e iso8601\datetimekind e iso8601\bin\Debug\net5.0\datetimekind e iso8601.deps.json
+F:\Estudos\C#\C# Completo\Projetos\datetimekind e iso8601\datetimekind e iso8601\bin\Debug\net5.0\datetimekind e iso8601.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\datetimekind e iso8601\datetimekind e iso8601\bin\Debug\net5.0\datetimekind e iso8601.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\datetimekind e iso8601\datetimekind e iso8601\bin\Debug\net5.0\datetimekind e iso8601.dll
+F:\Estudos\C#\C# Completo\Projetos\datetimekind e iso8601\datetimekind e iso8601\bin\Debug\net5.0\datetimekind e iso8601.pdb
+F:\Estudos\C#\C# Completo\Projetos\datetimekind e iso8601\datetimekind e iso8601\obj\Debug\net5.0\datetimekind e iso8601.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\datetimekind e iso8601\datetimekind e iso8601\obj\Debug\net5.0\datetimekind e iso8601.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\datetimekind e iso8601\datetimekind e iso8601\obj\Debug\net5.0\datetimekind e iso8601.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\datetimekind e iso8601\datetimekind e iso8601\obj\Debug\net5.0\datetimekind e iso8601.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\datetimekind e iso8601\datetimekind e iso8601\obj\Debug\net5.0\datetimekind e iso8601.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\datetimekind e iso8601\datetimekind e iso8601\obj\Debug\net5.0\datetimekind e iso8601.dll
+F:\Estudos\C#\C# Completo\Projetos\datetimekind e iso8601\datetimekind e iso8601\obj\Debug\net5.0\refint\datetimekind e iso8601.dll
+F:\Estudos\C#\C# Completo\Projetos\datetimekind e iso8601\datetimekind e iso8601\obj\Debug\net5.0\datetimekind e iso8601.pdb
+F:\Estudos\C#\C# Completo\Projetos\datetimekind e iso8601\datetimekind e iso8601\obj\Debug\net5.0\datetimekind e iso8601.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\datetimekind e iso8601\datetimekind e iso8601\obj\Debug\net5.0\ref\datetimekind e iso8601.dll

@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\Salario media de dois funcionarios\Salario media de dois funcionarios\bin\Debug\net5.0\Salario media de dois funcionarios.exe
+F:\Estudos\C#\C# Completo\Projetos\Salario media de dois funcionarios\Salario media de dois funcionarios\bin\Debug\net5.0\Salario media de dois funcionarios.deps.json
+F:\Estudos\C#\C# Completo\Projetos\Salario media de dois funcionarios\Salario media de dois funcionarios\bin\Debug\net5.0\Salario media de dois funcionarios.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\Salario media de dois funcionarios\Salario media de dois funcionarios\bin\Debug\net5.0\Salario media de dois funcionarios.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\Salario media de dois funcionarios\Salario media de dois funcionarios\bin\Debug\net5.0\Salario media de dois funcionarios.dll
+F:\Estudos\C#\C# Completo\Projetos\Salario media de dois funcionarios\Salario media de dois funcionarios\bin\Debug\net5.0\Salario media de dois funcionarios.pdb
+F:\Estudos\C#\C# Completo\Projetos\Salario media de dois funcionarios\Salario media de dois funcionarios\obj\Debug\net5.0\Salario media de dois funcionarios.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\Salario media de dois funcionarios\Salario media de dois funcionarios\obj\Debug\net5.0\Salario media de dois funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\Salario media de dois funcionarios\Salario media de dois funcionarios\obj\Debug\net5.0\Salario media de dois funcionarios.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Salario media de dois funcionarios\Salario media de dois funcionarios\obj\Debug\net5.0\Salario media de dois funcionarios.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\Salario media de dois funcionarios\Salario media de dois funcionarios\obj\Debug\net5.0\Salario media de dois funcionarios.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Salario media de dois funcionarios\Salario media de dois funcionarios\obj\Debug\net5.0\Salario media de dois funcionarios.dll
+F:\Estudos\C#\C# Completo\Projetos\Salario media de dois funcionarios\Salario media de dois funcionarios\obj\Debug\net5.0\refint\Salario media de dois funcionarios.dll
+F:\Estudos\C#\C# Completo\Projetos\Salario media de dois funcionarios\Salario media de dois funcionarios\obj\Debug\net5.0\Salario media de dois funcionarios.pdb
+F:\Estudos\C#\C# Completo\Projetos\Salario media de dois funcionarios\Salario media de dois funcionarios\obj\Debug\net5.0\Salario media de dois funcionarios.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\Salario media de dois funcionarios\Salario media de dois funcionarios\obj\Debug\net5.0\ref\Salario media de dois funcionarios.dll

@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\secao7 - Timespan\secao7 - Timespan\bin\Debug\net5.0\secao7 - Timespan.exe
+F:\Estudos\C#\C# Completo\Projetos\secao7 - Timespan\secao7 - Timespan\bin\Debug\net5.0\secao7 - Timespan.deps.json
+F:\Estudos\C#\C# Completo\Projetos\secao7 - Timespan\secao7 - Timespan\bin\Debug\net5.0\secao7 - Timespan.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\secao7 - Timespan\secao7 - Timespan\bin\Debug\net5.0\secao7 - Timespan.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\secao7 - Timespan\secao7 - Timespan\bin\Debug\net5.0\secao7 - Timespan.dll
+F:\Estudos\C#\C# Completo\Projetos\secao7 - Timespan\secao7 - Timespan\bin\Debug\net5.0\secao7 - Timespan.pdb
+F:\Estudos\C#\C# Completo\Projetos\secao7 - Timespan\secao7 - Timespan\obj\Debug\net5.0\secao7 - Timespan.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\secao7 - Timespan\secao7 - Timespan\obj\Debug\net5.0\secao7 - Timespan.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\secao7 - Timespan\secao7 - Timespan\obj\Debug\net5.0\secao7 - Timespan.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\secao7 - Timespan\secao7 - Timespan\obj\Debug\net5.0\secao7 - Timespan.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\secao7 - Timespan\secao7 - Timespan\obj\Debug\net5.0\secao7 - Timespan.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\secao7 - Timespan\secao7 - Timespan\obj\Debug\net5.0\secao7 - Timespan.dll
+F:\Estudos\C#\C# Completo\Projetos\secao7 - Timespan\secao7 - Timespan\obj\Debug\net5.0\refint\secao7 - Timespan.dll
+F:\Estudos\C#\C# Completo\Projetos\secao7 - Timespan\secao7 - Timespan\obj\Debug\net5.0\secao7 - Timespan.pdb
+F:\Estudos\C#\C# Completo\Projetos\secao7 - Timespan\secao7 - Timespan\obj\Debug\net5.0\secao7 - Timespan.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\secao7 - Timespan\secao7 - Timespan\obj\Debug\net5.0\ref\secao7 - Timespan.dll

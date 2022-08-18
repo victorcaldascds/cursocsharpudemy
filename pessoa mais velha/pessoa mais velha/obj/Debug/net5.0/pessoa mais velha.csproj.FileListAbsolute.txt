@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\pessoa mais velha\pessoa mais velha\bin\Debug\net5.0\pessoa mais velha.exe
+F:\Estudos\C#\C# Completo\Projetos\pessoa mais velha\pessoa mais velha\bin\Debug\net5.0\pessoa mais velha.deps.json
+F:\Estudos\C#\C# Completo\Projetos\pessoa mais velha\pessoa mais velha\bin\Debug\net5.0\pessoa mais velha.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\pessoa mais velha\pessoa mais velha\bin\Debug\net5.0\pessoa mais velha.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\pessoa mais velha\pessoa mais velha\bin\Debug\net5.0\pessoa mais velha.dll
+F:\Estudos\C#\C# Completo\Projetos\pessoa mais velha\pessoa mais velha\bin\Debug\net5.0\pessoa mais velha.pdb
+F:\Estudos\C#\C# Completo\Projetos\pessoa mais velha\pessoa mais velha\obj\Debug\net5.0\pessoa mais velha.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\pessoa mais velha\pessoa mais velha\obj\Debug\net5.0\pessoa mais velha.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\pessoa mais velha\pessoa mais velha\obj\Debug\net5.0\pessoa mais velha.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\pessoa mais velha\pessoa mais velha\obj\Debug\net5.0\pessoa mais velha.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\pessoa mais velha\pessoa mais velha\obj\Debug\net5.0\pessoa mais velha.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\pessoa mais velha\pessoa mais velha\obj\Debug\net5.0\pessoa mais velha.dll
+F:\Estudos\C#\C# Completo\Projetos\pessoa mais velha\pessoa mais velha\obj\Debug\net5.0\refint\pessoa mais velha.dll
+F:\Estudos\C#\C# Completo\Projetos\pessoa mais velha\pessoa mais velha\obj\Debug\net5.0\pessoa mais velha.pdb
+F:\Estudos\C#\C# Completo\Projetos\pessoa mais velha\pessoa mais velha\obj\Debug\net5.0\pessoa mais velha.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\pessoa mais velha\pessoa mais velha\obj\Debug\net5.0\ref\pessoa mais velha.dll

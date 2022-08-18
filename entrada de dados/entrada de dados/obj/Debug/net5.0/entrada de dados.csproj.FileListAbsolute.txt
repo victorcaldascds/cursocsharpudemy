@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\entrada de dados\entrada de dados\bin\Debug\net5.0\entrada de dados.exe
+F:\Estudos\C#\C# Completo\Projetos\entrada de dados\entrada de dados\bin\Debug\net5.0\entrada de dados.deps.json
+F:\Estudos\C#\C# Completo\Projetos\entrada de dados\entrada de dados\bin\Debug\net5.0\entrada de dados.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\entrada de dados\entrada de dados\bin\Debug\net5.0\entrada de dados.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\entrada de dados\entrada de dados\bin\Debug\net5.0\entrada de dados.dll
+F:\Estudos\C#\C# Completo\Projetos\entrada de dados\entrada de dados\bin\Debug\net5.0\entrada de dados.pdb
+F:\Estudos\C#\C# Completo\Projetos\entrada de dados\entrada de dados\obj\Debug\net5.0\entrada de dados.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\entrada de dados\entrada de dados\obj\Debug\net5.0\entrada de dados.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\entrada de dados\entrada de dados\obj\Debug\net5.0\entrada de dados.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\entrada de dados\entrada de dados\obj\Debug\net5.0\entrada de dados.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\entrada de dados\entrada de dados\obj\Debug\net5.0\entrada de dados.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\entrada de dados\entrada de dados\obj\Debug\net5.0\entrada de dados.dll
+F:\Estudos\C#\C# Completo\Projetos\entrada de dados\entrada de dados\obj\Debug\net5.0\refint\entrada de dados.dll
+F:\Estudos\C#\C# Completo\Projetos\entrada de dados\entrada de dados\obj\Debug\net5.0\entrada de dados.pdb
+F:\Estudos\C#\C# Completo\Projetos\entrada de dados\entrada de dados\obj\Debug\net5.0\entrada de dados.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\entrada de dados\entrada de dados\obj\Debug\net5.0\ref\entrada de dados.dll

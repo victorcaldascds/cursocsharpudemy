@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Salario media de dois funcionarios/1.0.0": {
+        "runtime": {
+          "Salario media de dois funcionarios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Salario media de dois funcionarios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

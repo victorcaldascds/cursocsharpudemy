@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\Lista\Lista\bin\Debug\net5.0\Lista.exe
+F:\Estudos\C#\C# Completo\Projetos\Lista\Lista\bin\Debug\net5.0\Lista.deps.json
+F:\Estudos\C#\C# Completo\Projetos\Lista\Lista\bin\Debug\net5.0\Lista.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\Lista\Lista\bin\Debug\net5.0\Lista.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\Lista\Lista\bin\Debug\net5.0\Lista.dll
+F:\Estudos\C#\C# Completo\Projetos\Lista\Lista\bin\Debug\net5.0\Lista.pdb
+F:\Estudos\C#\C# Completo\Projetos\Lista\Lista\obj\Debug\net5.0\Lista.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\Lista\Lista\obj\Debug\net5.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\Lista\Lista\obj\Debug\net5.0\Lista.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Lista\Lista\obj\Debug\net5.0\Lista.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\Lista\Lista\obj\Debug\net5.0\Lista.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Lista\Lista\obj\Debug\net5.0\Lista.dll
+F:\Estudos\C#\C# Completo\Projetos\Lista\Lista\obj\Debug\net5.0\refint\Lista.dll
+F:\Estudos\C#\C# Completo\Projetos\Lista\Lista\obj\Debug\net5.0\Lista.pdb
+F:\Estudos\C#\C# Completo\Projetos\Lista\Lista\obj\Debug\net5.0\Lista.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\Lista\Lista\obj\Debug\net5.0\ref\Lista.dll

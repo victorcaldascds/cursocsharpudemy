@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\Modificador Ref\Modificador Ref\bin\Debug\net5.0\Modificador Ref.exe
+F:\Estudos\C#\C# Completo\Projetos\Modificador Ref\Modificador Ref\bin\Debug\net5.0\Modificador Ref.deps.json
+F:\Estudos\C#\C# Completo\Projetos\Modificador Ref\Modificador Ref\bin\Debug\net5.0\Modificador Ref.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\Modificador Ref\Modificador Ref\bin\Debug\net5.0\Modificador Ref.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\Modificador Ref\Modificador Ref\bin\Debug\net5.0\Modificador Ref.dll
+F:\Estudos\C#\C# Completo\Projetos\Modificador Ref\Modificador Ref\bin\Debug\net5.0\Modificador Ref.pdb
+F:\Estudos\C#\C# Completo\Projetos\Modificador Ref\Modificador Ref\obj\Debug\net5.0\Modificador Ref.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\Modificador Ref\Modificador Ref\obj\Debug\net5.0\Modificador Ref.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\Modificador Ref\Modificador Ref\obj\Debug\net5.0\Modificador Ref.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Modificador Ref\Modificador Ref\obj\Debug\net5.0\Modificador Ref.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\Modificador Ref\Modificador Ref\obj\Debug\net5.0\Modificador Ref.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Modificador Ref\Modificador Ref\obj\Debug\net5.0\Modificador Ref.dll
+F:\Estudos\C#\C# Completo\Projetos\Modificador Ref\Modificador Ref\obj\Debug\net5.0\refint\Modificador Ref.dll
+F:\Estudos\C#\C# Completo\Projetos\Modificador Ref\Modificador Ref\obj\Debug\net5.0\Modificador Ref.pdb
+F:\Estudos\C#\C# Completo\Projetos\Modificador Ref\Modificador Ref\obj\Debug\net5.0\Modificador Ref.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\Modificador Ref\Modificador Ref\obj\Debug\net5.0\ref\Modificador Ref.dll

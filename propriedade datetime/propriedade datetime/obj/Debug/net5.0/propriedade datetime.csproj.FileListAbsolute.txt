@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\propriedade datetime\propriedade datetime\obj\Debug\net5.0\propriedade datetime.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\propriedade datetime\propriedade datetime\obj\Debug\net5.0\propriedade datetime.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\propriedade datetime\propriedade datetime\obj\Debug\net5.0\propriedade datetime.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\propriedade datetime\propriedade datetime\obj\Debug\net5.0\propriedade datetime.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\propriedade datetime\propriedade datetime\obj\Debug\net5.0\propriedade datetime.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\propriedade datetime\propriedade datetime\bin\Debug\net5.0\propriedade datetime.exe
+F:\Estudos\C#\C# Completo\Projetos\propriedade datetime\propriedade datetime\bin\Debug\net5.0\propriedade datetime.deps.json
+F:\Estudos\C#\C# Completo\Projetos\propriedade datetime\propriedade datetime\bin\Debug\net5.0\propriedade datetime.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\propriedade datetime\propriedade datetime\bin\Debug\net5.0\propriedade datetime.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\propriedade datetime\propriedade datetime\bin\Debug\net5.0\propriedade datetime.dll
+F:\Estudos\C#\C# Completo\Projetos\propriedade datetime\propriedade datetime\bin\Debug\net5.0\propriedade datetime.pdb
+F:\Estudos\C#\C# Completo\Projetos\propriedade datetime\propriedade datetime\obj\Debug\net5.0\propriedade datetime.dll
+F:\Estudos\C#\C# Completo\Projetos\propriedade datetime\propriedade datetime\obj\Debug\net5.0\refint\propriedade datetime.dll
+F:\Estudos\C#\C# Completo\Projetos\propriedade datetime\propriedade datetime\obj\Debug\net5.0\propriedade datetime.pdb
+F:\Estudos\C#\C# Completo\Projetos\propriedade datetime\propriedade datetime\obj\Debug\net5.0\propriedade datetime.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\propriedade datetime\propriedade datetime\obj\Debug\net5.0\ref\propriedade datetime.dll

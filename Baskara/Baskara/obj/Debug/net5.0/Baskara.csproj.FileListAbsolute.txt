@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\Baskara\Baskara\bin\Debug\net5.0\Baskara.exe
+F:\Estudos\C#\C# Completo\Projetos\Baskara\Baskara\bin\Debug\net5.0\Baskara.deps.json
+F:\Estudos\C#\C# Completo\Projetos\Baskara\Baskara\bin\Debug\net5.0\Baskara.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\Baskara\Baskara\bin\Debug\net5.0\Baskara.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\Baskara\Baskara\bin\Debug\net5.0\Baskara.dll
+F:\Estudos\C#\C# Completo\Projetos\Baskara\Baskara\bin\Debug\net5.0\Baskara.pdb
+F:\Estudos\C#\C# Completo\Projetos\Baskara\Baskara\obj\Debug\net5.0\Baskara.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\Baskara\Baskara\obj\Debug\net5.0\Baskara.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\Baskara\Baskara\obj\Debug\net5.0\Baskara.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Baskara\Baskara\obj\Debug\net5.0\Baskara.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\Baskara\Baskara\obj\Debug\net5.0\Baskara.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Baskara\Baskara\obj\Debug\net5.0\Baskara.dll
+F:\Estudos\C#\C# Completo\Projetos\Baskara\Baskara\obj\Debug\net5.0\refint\Baskara.dll
+F:\Estudos\C#\C# Completo\Projetos\Baskara\Baskara\obj\Debug\net5.0\Baskara.pdb
+F:\Estudos\C#\C# Completo\Projetos\Baskara\Baskara\obj\Debug\net5.0\Baskara.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\Baskara\Baskara\obj\Debug\net5.0\ref\Baskara.dll

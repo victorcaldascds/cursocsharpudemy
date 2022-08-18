@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\medidas de lados do triangulo\medidas de lados do triangulo\bin\Debug\net5.0\medidas de lados do triangulo.exe
+F:\Estudos\C#\C# Completo\Projetos\medidas de lados do triangulo\medidas de lados do triangulo\bin\Debug\net5.0\medidas de lados do triangulo.deps.json
+F:\Estudos\C#\C# Completo\Projetos\medidas de lados do triangulo\medidas de lados do triangulo\bin\Debug\net5.0\medidas de lados do triangulo.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\medidas de lados do triangulo\medidas de lados do triangulo\bin\Debug\net5.0\medidas de lados do triangulo.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\medidas de lados do triangulo\medidas de lados do triangulo\bin\Debug\net5.0\medidas de lados do triangulo.dll
+F:\Estudos\C#\C# Completo\Projetos\medidas de lados do triangulo\medidas de lados do triangulo\bin\Debug\net5.0\medidas de lados do triangulo.pdb
+F:\Estudos\C#\C# Completo\Projetos\medidas de lados do triangulo\medidas de lados do triangulo\obj\Debug\net5.0\medidas de lados do triangulo.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\medidas de lados do triangulo\medidas de lados do triangulo\obj\Debug\net5.0\medidas de lados do triangulo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\medidas de lados do triangulo\medidas de lados do triangulo\obj\Debug\net5.0\medidas de lados do triangulo.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\medidas de lados do triangulo\medidas de lados do triangulo\obj\Debug\net5.0\medidas de lados do triangulo.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\medidas de lados do triangulo\medidas de lados do triangulo\obj\Debug\net5.0\medidas de lados do triangulo.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\medidas de lados do triangulo\medidas de lados do triangulo\obj\Debug\net5.0\medidas de lados do triangulo.dll
+F:\Estudos\C#\C# Completo\Projetos\medidas de lados do triangulo\medidas de lados do triangulo\obj\Debug\net5.0\refint\medidas de lados do triangulo.dll
+F:\Estudos\C#\C# Completo\Projetos\medidas de lados do triangulo\medidas de lados do triangulo\obj\Debug\net5.0\medidas de lados do triangulo.pdb
+F:\Estudos\C#\C# Completo\Projetos\medidas de lados do triangulo\medidas de lados do triangulo\obj\Debug\net5.0\medidas de lados do triangulo.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\medidas de lados do triangulo\medidas de lados do triangulo\obj\Debug\net5.0\ref\medidas de lados do triangulo.dll

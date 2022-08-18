@@ -1,0 +1,16 @@
+F:\Estudos\C#\C# Completo\Projetos\Propriedade Timespan\Propriedade Timespan\bin\Debug\net5.0\Propriedade Timespan.exe
+F:\Estudos\C#\C# Completo\Projetos\Propriedade Timespan\Propriedade Timespan\bin\Debug\net5.0\Propriedade Timespan.deps.json
+F:\Estudos\C#\C# Completo\Projetos\Propriedade Timespan\Propriedade Timespan\bin\Debug\net5.0\Propriedade Timespan.runtimeconfig.json
+F:\Estudos\C#\C# Completo\Projetos\Propriedade Timespan\Propriedade Timespan\bin\Debug\net5.0\Propriedade Timespan.runtimeconfig.dev.json
+F:\Estudos\C#\C# Completo\Projetos\Propriedade Timespan\Propriedade Timespan\bin\Debug\net5.0\Propriedade Timespan.dll
+F:\Estudos\C#\C# Completo\Projetos\Propriedade Timespan\Propriedade Timespan\bin\Debug\net5.0\Propriedade Timespan.pdb
+F:\Estudos\C#\C# Completo\Projetos\Propriedade Timespan\Propriedade Timespan\obj\Debug\net5.0\Propriedade Timespan.csproj.AssemblyReference.cache
+F:\Estudos\C#\C# Completo\Projetos\Propriedade Timespan\Propriedade Timespan\obj\Debug\net5.0\Propriedade Timespan.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\C# Completo\Projetos\Propriedade Timespan\Propriedade Timespan\obj\Debug\net5.0\Propriedade Timespan.AssemblyInfoInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Propriedade Timespan\Propriedade Timespan\obj\Debug\net5.0\Propriedade Timespan.AssemblyInfo.cs
+F:\Estudos\C#\C# Completo\Projetos\Propriedade Timespan\Propriedade Timespan\obj\Debug\net5.0\Propriedade Timespan.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\C# Completo\Projetos\Propriedade Timespan\Propriedade Timespan\obj\Debug\net5.0\Propriedade Timespan.dll
+F:\Estudos\C#\C# Completo\Projetos\Propriedade Timespan\Propriedade Timespan\obj\Debug\net5.0\refint\Propriedade Timespan.dll
+F:\Estudos\C#\C# Completo\Projetos\Propriedade Timespan\Propriedade Timespan\obj\Debug\net5.0\Propriedade Timespan.pdb
+F:\Estudos\C#\C# Completo\Projetos\Propriedade Timespan\Propriedade Timespan\obj\Debug\net5.0\Propriedade Timespan.genruntimeconfig.cache
+F:\Estudos\C#\C# Completo\Projetos\Propriedade Timespan\Propriedade Timespan\obj\Debug\net5.0\ref\Propriedade Timespan.dll
